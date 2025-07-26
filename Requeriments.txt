@@ -1,0 +1,5 @@
+streamlit>=1.35.0
+pandas>=2.2.2
+scikit-learn
+numpy
+matplotlib  # si haces gráficas adicionales
